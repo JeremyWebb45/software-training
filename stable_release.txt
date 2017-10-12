@@ -1,0 +1,5 @@
+
+.cask/
+html/
+*.out
+.DS_Store
